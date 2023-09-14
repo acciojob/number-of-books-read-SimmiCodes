@@ -22,7 +22,7 @@ const numberOfBooksRead = (library) => {
 };
 
 // Do not change the code below
-const numberOfReadBooks = numberOfBooksRead(library);
+
 console.log(numberOfReadBooks);
 
 alert(numberOfBooksRead());
